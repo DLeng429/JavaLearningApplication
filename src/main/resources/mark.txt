@@ -1,0 +1,7 @@
+2022-2023-1 EBU0003 SoftwareEngineering 4 88
+2022-2023-1 EBU0002 Microprocessor 3 89
+2022-2023-1 EBU0001 RFID 4 90
+2022-2023-1 EBU0006 InformationProcessingTechnology 2 91
+2022-2023-1 EBU0005 MobileInternet 2 87
+2022-2023-1 EBU0004 WirelessSensor 2 90
+2021-2022-2 EBU0007 JavaProgram 5 88
